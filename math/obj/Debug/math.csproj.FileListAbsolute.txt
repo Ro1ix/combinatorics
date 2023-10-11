@@ -1,0 +1,7 @@
+C:\Users\Ваня\source\repos\math\bin\Debug\math.exe.config
+C:\Users\Ваня\source\repos\math\bin\Debug\math.exe
+C:\Users\Ваня\source\repos\math\bin\Debug\math.pdb
+C:\Users\Ваня\source\repos\math\obj\Debug\math.csproj.AssemblyReference.cache
+C:\Users\Ваня\source\repos\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+C:\Users\Ваня\source\repos\math\obj\Debug\math.exe
+C:\Users\Ваня\source\repos\math\obj\Debug\math.pdb
